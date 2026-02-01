@@ -1,8 +1,8 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://darihafebi825-collab.github.io/MY-PORTFOLIO",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://darihafeibi825-collab.github.io/MY-PORTFOLIO",
   "dependencies": {
     "chart.js": "^4.5.1",
     "framer-motion": "^12.23.25",
@@ -36,3 +36,4 @@
     "gh-pages": "^6.3.0"
   }
 }
+
