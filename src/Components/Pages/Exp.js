@@ -15,9 +15,9 @@ const experiences = [
     company: "M Squared,Tiruvanathapuaram ",
   },
   {
-    period: "Dec-2025",
-    title: "ML-Engineer",
-    company: "Zaalima Development pvt ltd,Bangalore",
+    period: "Aug 2025- Jan2026",
+    title: "Fullstack Developer training",
+    company: "Networkz system,Tiruvananthapuram",
   },
 ];
 
